@@ -14,7 +14,7 @@ We gonna need 4 ec2-instances :
 ### Control-node 
 The node where we install ansible so we can run our playbooks
 ### Zabbix-server-node
-The node where we gonna have our zabbix-server running with database and frontend 
+The node where zabbix-server are running with database and frontend 
 ### worker-node1/node2
 The nodes that we are going to monitor and where we gonna install zabbix-agent 
 
