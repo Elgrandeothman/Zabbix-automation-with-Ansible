@@ -18,4 +18,6 @@ The node where zabbix-server are running with database and frontend
 ### worker-node1/node2
 The nodes that we are going to monitor and where we gonna install zabbix-agent 
 
+## Setup environnement in AWS cloud
+![alt text](6git.PNG)
 
